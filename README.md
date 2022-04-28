@@ -1,2 +1,12 @@
 # jogo_exemplo
- Feito em C com auxilio da biblioteca Allegro. Projeto do curso tecnico em eletronica.
+ Made in C (codeblocks) with Allegro library.
+ Project made during the eletronic technican course - 2019.
+
+ Status: unfinished.
+ Multiple pendencies related to translations to english and to code and file organization.
+
+ To run, the code needs to be compiled and Allegro needs to be installed.
+ To install allegro: http://fixbyproximity.com/2011/07/12/2d-game-dev-installing-allegro-5-with-visual-studio-2010/
+ 
+ Project based in fixbyproximity's guide:
+ http://fixbyproximity.com/2d-game-development-course/
