@@ -192,41 +192,41 @@ int main(void)
 	event_queue = al_create_event_queue();
 	timer = al_create_timer(1.0 / FPS);
 
-	heliImage = al_load_bitmap("MINIHELI.png");  //images...
+	heliImage = al_load_bitmap("images/MINIHELI.png");  //images...
 
-	expImage = al_load_bitmap("EXPLOSIONS1.png");
+	expImage = al_load_bitmap("images/EXPLOSIONS1.png");
 
-	expImageII = al_load_bitmap("EXPLOSIONS2.png");
+	expImageII = al_load_bitmap("images/EXPLOSIONS2.png");
 
-	tankImage = al_load_bitmap("TANKS.png");
+	tankImage = al_load_bitmap("images/TANKS.png");
 
-	projeteis = al_load_bitmap("PROJETEIS.png");
+	projeteis = al_load_bitmap("images/PROJETEIS.png");
 
-	fundo = al_load_bitmap("BACKGROUND.png");
+	fundo = al_load_bitmap("images/BACKGROUND.png");
 
-	eProjeteis = al_load_bitmap("PLASMA.png");
+	eProjeteis = al_load_bitmap("images/PLASMA.png");
 
-	bombsas = al_load_bitmap("BOMBS.png");
+	bombsas = al_load_bitmap("images/BOMBS.png");
 
-	alerta = al_load_bitmap("PERIGO.png");
+	alerta = al_load_bitmap("images/PERIGO.png");
 
-	damageSprite = al_load_bitmap("DAMAGE.png");
+	damageSprite = al_load_bitmap("images/DAMAGE.png");
 
-	healSprite = al_load_bitmap("HEAL.png");
+	healSprite = al_load_bitmap("images/HEAL.png");
 
-	titulo = al_load_bitmap("TITULO.png");
+	titulo = al_load_bitmap("images/TITULO.png");
 
-	pause = al_load_bitmap ("PAUSE.png");
+	pause = al_load_bitmap ("images/PAUSE.png");
 
-	derrota = al_load_bitmap("DERROTA.png");
+	derrota = al_load_bitmap("images/DERROTA.png");
 
-	vitoria = al_load_bitmap("VITORIA.png");
+	vitoria = al_load_bitmap("images/VITORIA.png");
 
-	kit = al_load_bitmap("CURA.png");        //...images
+	kit = al_load_bitmap("images/CURA.png");        //...images
 
-	fontWAR24 = al_load_font("war.ttf", 24, 0); //font
+	fontWAR24 = al_load_font("images/war.ttf", 24, 0); //font
 
-	fontWAR48 = al_load_font("war.ttf", 56, 0); //font
+	fontWAR48 = al_load_font("images/war.ttf", 56, 0); //font
 
 	srand(time(NULL));
 

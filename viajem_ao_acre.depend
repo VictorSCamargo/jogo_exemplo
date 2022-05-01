@@ -593,3 +593,24 @@
 
 1643665345 d:\arquivos de jogos\ultimo_antiaereo\functions.h
 
+1643665474 source:d:\arquivos de jogos\ultimo_antiaereo\jogo_exemplo\functions.cpp
+	<stdio.h>
+	"functions.h"
+
+1643665474 d:\arquivos de jogos\ultimo_antiaereo\jogo_exemplo\functions.h
+
+1651434298 source:d:\arquivos de jogos\ultimo_antiaereo\jogo_exemplo\main.cpp
+	<allegro5\allegro.h>
+	<allegro5\allegro_primitives.h>
+	<allegro5\allegro_font.h>
+	<allegro5\allegro_ttf.h>
+	<allegro5\allegro_image.h>
+	"objectsplus.h"
+	"functions.cpp"
+
+1633632284 d:\arquivos de jogos\ultimo_antiaereo\jogo_exemplo\objectsplus.h
+
+1643665474 d:\arquivos de jogos\ultimo_antiaereo\jogo_exemplo\functions.cpp
+	<stdio.h>
+	"functions.h"
+
