@@ -8,8 +8,7 @@
 Gameplay: https://www.youtube.com/watch?v=Rw6BwOULbRc
 <img src="gameplay_example.png" width="600">
 
- To run, the code needs to be compiled and Allegro needs to be installed.
- To install allegro: http://fixbyproximity.com/2011/07/12/2d-game-dev-installing-allegro-5-with-visual-studio-2010/
+ To run the game, you should compile the project with Codeblocks + GCC compiler. If it does not build, verify the path to Allegro's library that is in the same folder of the project, using [this video](https://www.youtube.com/watch?v=xH8mpOfRGxE&ab_channel=KamrulHassan) as reference.
  
  Project based in fixbyproximity's guide:
  http://fixbyproximity.com/2d-game-development-course/
