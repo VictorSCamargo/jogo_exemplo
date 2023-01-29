@@ -8,7 +8,7 @@
 
 //GLOBAL VARIABLES//==================================================================================================================================//
 
-const float WIDTH = 1300; //use between 1600 and 800. I recommend 1300.
+const float WIDTH = 1180; //use between 1600 and 800. I recommend 1300.
 const int HEIGHT = 800; //this one is good enough.
 const int LIMITE_INF = HEIGHT-40;
 const float COEF_MOBILIDADE = 0.1;
